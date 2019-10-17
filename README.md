@@ -6,3 +6,4 @@
 ##### git remote add origin link do repositório
 ##### git remote remove origin //remover os arquivos do repositório
 teste
+corrigindo erros
