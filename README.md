@@ -5,3 +5,4 @@
 ##### git pull origin master / baixar todos os arquivos que estiveram no branch master
 ##### git remote add origin link do repositório
 ##### git remote remove origin //remover os arquivos do repositório
+teste
